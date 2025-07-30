@@ -171,3 +171,4 @@ Commit date: 2026-06-03T11:11:47 +0530 - Message: update notes
 Commit date: 2025-07-01T21:10:19 +0530 - Message: fix typo
 Commit date: 2025-07-15T19:25:18 +0530 - Message: update changelog
 Commit date: 2025-07-21T17:15:21 +0530 - Message: update readme
+Commit date: 2025-07-30T12:25:15 +0530 - Message: improve readability
