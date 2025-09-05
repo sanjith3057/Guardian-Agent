@@ -128,3 +128,4 @@ Commit date: 2025-07-30T12:59:06 +0530 - Message: update readme
 Commit date: 2025-07-30T22:31:11 +0530 - Message: update notes
 Commit date: 2025-08-22T12:28:51 +0530 - Message: fix typo
 Commit date: 2025-08-30T16:13:51 +0530 - Message: cleanup whitespace
+Commit date: 2025-09-05T12:26:20 +0530 - Message: add docstring
